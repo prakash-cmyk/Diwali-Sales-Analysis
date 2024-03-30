@@ -32,11 +32,6 @@ Top Product Categories:
 The highest sales were observed in product categories like Food, Clothing, Electronics, and Footwear.
 Data Highlights: These categories dominated the sales landscape, reflecting buyer preferences.
 
-**Impact and Significance:**
-The EDA not only sheds light on the demographics and preferences of the Diwali sales audience but also provides actionable insights for targeted marketing strategies and inventory planning.
-
-![WhatsApp Image 2023-11-26 at 17 44 26](https://github.com/4bhijeet341/Diwali-Sales-Analysis-using-Python/assets/150332865/c5798e4d-67c1-4236-84c6-3990f3c455db)
-
 
 **Conclusion:**
 
